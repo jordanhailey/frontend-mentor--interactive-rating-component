@@ -76,10 +76,6 @@ select {
 
 /* Global styles */
 :root {
-    /* layout */
-    --device__width-mobile: 375px;
-    --device__width-desktop: 1440px;
-    
     /* color */
     --color__primary-1: hsl(25, 97%, 53%); /* Orange */
     --color__neutral-1: hsl(0, 0%, 100%); /* White */
